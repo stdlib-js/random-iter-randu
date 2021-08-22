@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/random-iter-randu",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Create an iterator for generating uniformly distributed pseudorandom numbers between 0 and 1.",
   "license": "Apache-2.0",
   "author": {
