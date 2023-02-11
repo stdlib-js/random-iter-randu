@@ -38,12 +38,12 @@ C -->|bundle| D[esm];
 C -->|bundle| E[deno];
 C -->|bundle| F[umd];
 
-click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/random/iter/randu"
-click B href "https://github.com/stdlib-js/random-iter-randu/tree/main"
-click C href "https://github.com/stdlib-js/random-iter-randu/tree/production"
-click D href "https://github.com/stdlib-js/random-iter-randu/tree/esm"
-click E href "https://github.com/stdlib-js/random-iter-randu/tree/deno"
-click F href "https://github.com/stdlib-js/random-iter-randu/tree/umd"
+%% click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/random/iter/randu"
+%% click B href "https://github.com/stdlib-js/random-iter-randu/tree/main"
+%% click C href "https://github.com/stdlib-js/random-iter-randu/tree/production"
+%% click D href "https://github.com/stdlib-js/random-iter-randu/tree/esm"
+%% click E href "https://github.com/stdlib-js/random-iter-randu/tree/deno"
+%% click F href "https://github.com/stdlib-js/random-iter-randu/tree/umd"
 ```
 
 [stdlib-url]: https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/random/iter/randu
